@@ -1,0 +1,58 @@
+body
+{
+    background-color:rgba(61, 202, 148, 0.49);
+}
+form
+{
+    background-color: gainsboro;
+    padding: 20px;
+    margin: 1px 540px 40px ;
+    width: 400px;
+    border-top: 0px !important;
+    border:  2px  solid gray;
+}
+h1
+{
+    text-align: center;
+    font-size: xx-large;
+    width: 430px;
+    background-color:gainsboro;
+    color:brown;
+    margin: 112px 540px -2px 540px;
+    padding: 5px ;
+    border:  2px  solid gray;
+}
+ 
+p
+{
+    margin-top: 3px;
+    margin-bottom: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    background-color: inherit;
+    
+}
+#submit
+{
+    margin:10px 0px 15px 0px;
+    width: 110px;
+    height: 25px;
+    border:1px solid gray;
+    background-color: rgba(53, 145, 178, 0.634);
+    cursor: grab;
+    border-radius: 4px;
+}
+#submit:hover
+{
+    background-color: aqua;
+    font-size: larger;
+    font-weight: 800;
+    
+
+}
+.input
+{
+    border: 2px solid gray;
+    border-radius: 4px;
+    height: 25px;
+}
