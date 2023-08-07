@@ -8,7 +8,7 @@ form
     padding: 20px;
     margin: 1px 540px 40px ;
     width: 400px;
-    border-top: 0px !important;
+    border-top: none !important;
     border:  2px  solid gray;
 }
 h1
@@ -21,6 +21,7 @@ h1
     margin: 112px 540px -2px 540px;
     padding: 5px ;
     border:  2px  solid gray;
+    border-bottom: none !important;
 }
  
 p
